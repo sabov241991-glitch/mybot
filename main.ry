@@ -1,4 +1,3 @@
-# mybot
 import telebot
 import time
 import threading
